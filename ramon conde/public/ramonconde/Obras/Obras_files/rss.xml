@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Obras</title>
+    <link>http://www.ramonconde.com/ramonconde/Obras/Obras.html</link>
+    <description>Obras</description>
+    <item>
+      <title>Proceso de creación</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Proceso_de_creacion.html</link>
+      <guid isPermaLink="false">0b1309f2-a3d4-4440-9910-ab7e113c27aa</guid>
+    </item>
+    <item>
+      <title>Proceso de creación 2</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Proceso_de_creacion_2.html</link>
+      <guid isPermaLink="false">f0c71280-1759-48d8-92db-a3e140a328d1</guid>
+    </item>
+    <item>
+      <title>Soliloquios (2019)</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Soliloquios_%282019%29.html</link>
+      <guid isPermaLink="false">b5d07426-bf5d-4e99-b2b5-04bd68021b3b</guid>
+    </item>
+    <item>
+      <title>Delirios (2018)</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Delirios_%282018%29.html</link>
+      <guid isPermaLink="false">125cb35c-02aa-4cc9-a933-f06ef48d13f5</guid>
+    </item>
+    <item>
+      <title>Los dilemas del sujeto (2015)</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Los_dilemas_del_sujeto_%282015%29.html</link>
+      <guid isPermaLink="false">42bac4ce-053d-4aa2-b1eb-a8161a686225</guid>
+    </item>
+    <item>
+      <title>Emoción-Razón (2013)</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Emocion-Razon_%282013%29.html</link>
+      <guid isPermaLink="false">ef9a1a52-5b54-4d76-8f26-a60e0cb6467a</guid>
+    </item>
+    <item>
+      <title>Actitudes (2012)</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Actitudes_%282012%29.html</link>
+      <guid isPermaLink="false">b63e2de3-ff75-49de-9005-e0332644478e</guid>
+    </item>
+    <item>
+      <title>Pequeño formato</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Pequeno_formato.html</link>
+      <guid isPermaLink="false">e3d07ead-f123-49dc-bcac-f9050a8b6d7d</guid>
+    </item>
+    <item>
+      <title>Obra pública</title>
+      <link>http://www.ramonconde.com/ramonconde/Obras/Paginas/Obra_publica.html</link>
+      <guid isPermaLink="false">781fab94-90d9-432f-8b1f-1edc3e740824</guid>
+    </item>
+  </channel>
+</rss>
